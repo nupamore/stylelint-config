@@ -1,0 +1,2 @@
+# stylelint-config
+my config
