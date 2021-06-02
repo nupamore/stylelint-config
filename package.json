@@ -1,0 +1,25 @@
+{
+  "name": "@nupamore/stylelint-config",
+  "version": "1.0.0",
+  "description": "my config",
+  "main": ".stylelintrc.js",
+  "author": "nupamore@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/nupamore/stylelint-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nupamore/stylelint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/nupamore/stylelint-config/issues"
+  },
+  "dependencies": {
+    "prettier": "^2.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.2.0",
+    "stylelint-scss": "^3.19.0"
+  }
+}
